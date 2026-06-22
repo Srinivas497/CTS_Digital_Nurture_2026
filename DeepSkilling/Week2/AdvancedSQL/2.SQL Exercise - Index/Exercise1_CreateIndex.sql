@@ -7,9 +7,9 @@ CREATE TABLE Customers (
 );
 
 INSERT INTO Customers VALUES
-(1,'Rawhan','Hyderabad'),
-(2,'Ramzi','Chennai'),
-(3,'John','Mumbai'),
+(1,'Srinivas','Hyderabad'),
+(2,'Yasarapu','Chennai'),
+(3,'Rawhan','Mumbai'),
 (4,'David','Delhi');
 
 CREATE INDEX idx_customername
@@ -17,4 +17,4 @@ ON Customers(CustomerName);
 
 SELECT *
 FROM Customers
-WHERE CustomerName='Rawhan';
+WHERE CustomerName='Srinivas';

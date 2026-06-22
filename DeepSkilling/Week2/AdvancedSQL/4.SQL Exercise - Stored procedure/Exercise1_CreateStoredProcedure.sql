@@ -7,7 +7,7 @@ CREATE TABLE EmployeeDetails (
 );
 
 INSERT INTO EmployeeDetails VALUES
-(1,'Rawhan',50000),
+(1,'Srinivas',50000),
 (2,'John',60000);
 
 DELIMITER $$
