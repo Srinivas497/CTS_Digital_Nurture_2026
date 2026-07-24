@@ -111,7 +111,7 @@ DeepSkilling
 
 - [ ] In Progress
 
-### Week 7 – Angular
+### Week 7 – React
 
 - [ ] In Progress
 
