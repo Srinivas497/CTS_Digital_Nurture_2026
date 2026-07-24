@@ -55,7 +55,7 @@ DeepSkilling
 │   └── README.md
 │
 ├── Week7
-│   ├── Angular
+│   ├── React
 │   └── README.md
 │
 └── UpSkilling
